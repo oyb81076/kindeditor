@@ -1,0 +1,25 @@
+{
+  "name": "oyb-kindeditor",
+  "main": "kindeditor.js",
+  "version": "4.1.10",
+  "homepage": "https://github.com/oyb81076/kindeditor",
+  "authors": [
+    "oyb <ouyangbin81076@gmail.com>"
+  ],
+  "description": "kindeditor",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "html",
+    "kindeditor"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
